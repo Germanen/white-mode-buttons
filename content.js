@@ -1,14 +1,14 @@
 /*
  * White Mode Buttons – Firefox Add-on
- * Copyright (c) 2025 Dave Soysal (GermanusTV)
+ * Copyright © 2025 Dave Soysal (GermanusTV) | Eva Soysal | Aiden Nova
  *
- * MIT License – mit Namensnennungspflicht
- * 
- * Du darfst diesen Code frei verwenden, verändern und verbreiten,
- * solange du Dave Soysal als ursprünglichen Entwickler nennst.
- * (z. B. im README, Lizenzblock oder Footer)
+ * Licensed under the MIT License with attribution required
  *
- * Projektseite: https://github.com/Germanen/white-mode-buttons
+ * You can use this code freely, modify it, and distribute it,
+ * as long as you name Dave Soysal as the original developer.
+ * (e.g., in the README, license block, or footer)
+ *
+ * Project page: https://github.com/Germanen/white-mode-buttons
  */
 // Style Injection für weiße Buttons
 const style = document.createElement('style');
