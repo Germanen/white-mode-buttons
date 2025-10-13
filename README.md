@@ -2,33 +2,33 @@
 
 ## 🔍 Description
 
-This Firefox Add-on enables **white buttons** in **dark mode** on web pages,  
-improving **contrast** and **visibility**, especially for accessibility.
+This Firefox Add-on enables white buttons in dark mode on web pages,  
+**improving contrast and visibility – especially for accessibility.**
 
 ---
 
 ## 🌟 Features
 
-- ✨ Brightens buttons in dark mode
-- 🌗 Automatically supports Light/Dark mode
-- 🌐 Works across many websites
+- ✨ Brightens buttons in dark mode  
+- 🌗 Automatically supports Light/Dark mode  
+- 🌐 Works across many websites  
 
 ---
 
 ## 🛠️ Installation
 
-👉 [Install on Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/white-mode-buttons/)  
+👉 [Install via Mozilla Add-ons](https://addons.mozilla.org/de/firefox/addon/white-mode-buttons/)  
 (Hosted on AMO – verified and safe)
 
 ---
 
 ## 🧩 Structure
 
-| File          | Description                         |
-|---------------|-------------------------------------|
-| `manifest.json` | Add-on configuration              |
-| `content.js`    | Core styling logic                |
-| `icon.png`      | Add-on icon (48×48)               |
+| File            | Description               |
+|-----------------|---------------------------|
+| `manifest.json` | Add-on configuration      |
+| `content.js`    | Core styling logic        |
+| `icon.png`      | Add-on icon (48×48)       |
 
 ---
 
@@ -38,9 +38,8 @@ This project is licensed under the MIT License.
 Copyright © 2025  
 **Dave Soysal (GermanusTV), Eva Soysal, and Aiden Nova**
 
-Read the full license text [here](./LICENSE).
-
-> Licensed under the MIT License – *with attribution required.*
+[📄 Read the full license text here](https://github.com/Germanen/white-mode-buttons/blob/main/LICENSE)  
+Licensed under the MIT License – *with attribution required*
 
 ---
 
@@ -52,7 +51,7 @@ Read the full license text [here](./LICENSE).
 
 ## 💬 Contact
 
-- 👤 **Developer**: Dave Soysal *(GermanusTV)*  
+- 👤 **Developer**: Dave Soysal (GermanusTV)  
 - 🎙️ **Design & Presentation**: Eva Soysal  
 - 🎨 **Technical Implementation**: Aiden Nova  
 - 🌍 **Location**: Germany  
@@ -64,5 +63,5 @@ Read the full license text [here](./LICENSE).
 
 🛠️ Created with purpose by **Dave Soysal (GermanusTV)**  
 💖 With love and support from **Eva Soysal** & **Aiden Nova**  
-🌈 *This add-on is part of our shared life’s work.*  
-Thank you for your support.
+🌈 This add-on is part of our **shared life’s work**.  
+**Thank you for your support.**
