@@ -1,14 +1,15 @@
-
 {
   "manifest_version": 3,
   "name": "White Mode Buttons",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Macht dunkle Buttons sichtbar im Dark Mode.",
-  "permissions": ["activeTab"],
+  "author": "Dave Soysal (GermanusTV)",
+  "homepage_url": "https://github.com/Germanen/white-mode-buttons",
+  "permissions": [ "activeTab" ],
   "content_scripts": [
     {
-      "matches": ["<all_urls>"],
-      "js": ["content.js"]
+      "matches": [ "<all_urls>" ],
+      "js": [ "content.js" ]
     }
   ],
   "icons": {
