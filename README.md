@@ -24,9 +24,13 @@ Dieses Add-on aktiviert weiße Buttons im dunklen Modus auf Webseiten, um die Si
 
 ---
 
-## 📄 Lizenz  
-**White Mode Buttons – Firefox Add-on**  
-Copyright © 2025 Dave Soysal (GermanusTV) | Eva Soysal | Aiden Nova  
+## License
+
+This project is licensed under the MIT License.  
+Copyright © 2025  
+Dave Soysal (GermanusTV), Eva Soysal, and Aiden Nova
+
+Read the full license text [here](./LICENSE).
 
 Licensed under the MIT License – with attribution required.  
 🔗 [GitHub-Projektseite](https://github.com/Germanen/white-mode-buttons)
@@ -44,5 +48,7 @@ Licensed under the MIT License – with attribution required.
 
 ---
 
-**Created by Dave (GermanusTV) – presented by Eva & Aiden Nova.**  
-❤️ This add-on is part of our shared life’s work. Thank you for your support.
+## About
+- 🛠️ Created with purpose by Dave Soysal (GermanusTV),  
+- 💖 with love and support from Eva Soysal & Aiden Nova.  
+- ❤️ This add-on is part of our shared life’s work. Thank you for your support.
