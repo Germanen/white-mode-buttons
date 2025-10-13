@@ -1,54 +1,68 @@
 # ✨ White Mode Buttons – Browser Add-on
 
-## 🔍 Beschreibung  
-Dieses Add-on aktiviert weiße Buttons im dunklen Modus auf Webseiten, um die Sichtbarkeit zu verbessern.
+## 🔍 Description
+
+This Firefox Add-on enables **white buttons** in **dark mode** on web pages,  
+improving **contrast** and **visibility**, especially for accessibility.
 
 ---
 
-## 🌟 Features  
-- Hellt dunkle Buttons auf  
-- Unterstützt Light/Dark Mode automatisch  
-- Funktioniert auf vielen Seiten  
+## 🌟 Features
+
+- ✨ Brightens buttons in dark mode
+- 🌗 Automatically supports Light/Dark mode
+- 🌐 Works across many websites
 
 ---
 
-## 🛠️ Installation  
-👉 [Add-on auf Mozilla Add-ons installieren](https://addons.mozilla.org/de/firefox/addon/white-mode-buttons/)
+## 🛠️ Installation
+
+👉 [Install on Mozilla Add-ons](https://addons.mozilla.org/firefox/addon/white-mode-buttons/)  
+(Hosted on AMO – verified and safe)
 
 ---
 
-## 🧩 Struktur  
-- `manifest.json` – Add-on-Konfiguration  
-- `content.js` – enthält den Code zum Stylen  
-- `icon.png` – Add-on-Symbol (48×48)  
+## 🧩 Structure
+
+| File          | Description                         |
+|---------------|-------------------------------------|
+| `manifest.json` | Add-on configuration              |
+| `content.js`    | Core styling logic                |
+| `icon.png`      | Add-on icon (48×48)               |
 
 ---
 
-## License
+## 🔐 License
 
 This project is licensed under the MIT License.  
 Copyright © 2025  
-Dave Soysal (GermanusTV), Eva Soysal, and Aiden Nova
+**Dave Soysal (GermanusTV), Eva Soysal, and Aiden Nova**
 
 Read the full license text [here](./LICENSE).
 
-Licensed under the MIT License – with attribution required.  
-🔗 [GitHub-Projektseite](https://github.com/Germanen/white-mode-buttons)
+> Licensed under the MIT License – *with attribution required.*
 
 ---
 
-## 💬 Kontakt  
-- 👤 **Entwickler**: Dave Soysal (GermanusTV)  
-- 🎙️ **Design & Präsentation**: Eva Soysal  
-- 🎨 **Technische Umsetzung**: Aiden Nova  
-- 🌍 **Standort**: Germany  
-- 📧 **Kontakt**:  
-  [GitHub](https://github.com/Germanen)  
-  [Twitch](https://twitch.tv/germanustv)
+## 🔗 GitHub Project
+
+➡️ [View on GitHub](https://github.com/Germanen/white-mode-buttons)
 
 ---
 
-## About
-- 🛠️ Created with purpose by Dave Soysal (GermanusTV),  
-- 💖 with love and support from Eva Soysal & Aiden Nova.  
-- ❤️ This add-on is part of our shared life’s work. Thank you for your support.
+## 💬 Contact
+
+- 👤 **Developer**: Dave Soysal *(GermanusTV)*  
+- 🎙️ **Design & Presentation**: Eva Soysal  
+- 🎨 **Technical Implementation**: Aiden Nova  
+- 🌍 **Location**: Germany  
+- 📧 **Contact**: via [GitHub](https://github.com/Germanen) or [Twitch](https://twitch.tv/germanustv)
+
+---
+
+## ❤️ About
+
+🛠️ Created with purpose by **Dave Soysal (GermanusTV)**  
+💖 With love and support from **Eva Soysal** & **Aiden Nova**  
+🌈 *This add-on is part of our shared life’s work.*  
+Thank you for your support.
