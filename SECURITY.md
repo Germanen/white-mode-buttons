@@ -6,7 +6,7 @@ White Mode Buttons is currently provided as a small Firefox/WebExtension add-on.
 
 | Version | Supported |
 | ------- | --------- |
-| 1.0.0   | ✅ |
+| 1.0     |        ✅ |
 | older versions | ❌ |
 
 ## Reporting a Vulnerability
@@ -14,6 +14,8 @@ White Mode Buttons is currently provided as a small Firefox/WebExtension add-on.
 If you find a security issue in White Mode Buttons, please report it privately through GitHub Security Advisories.
 
 Please do not create a public issue for security vulnerabilities.
+
+Security reports submitted through GitHub will be reviewed by the repository maintainer, Dave Soysal (GermanusTV).
 
 Project: White Mode Buttons  
 Repository: https://github.com/Germanen/white-mode-buttons  
